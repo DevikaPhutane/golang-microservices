@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/KernelGamut32/golang-microservices/labs/toyshop/internal/users"
-	"github.com/KernelGamut32/golang-microservices/labs/toyshop/internal/users/auth"
+	"github.com/jwkidd3/golang-microservices/labs/toyshop/internal/users"
+	"github.com/jwkidd3/golang-microservices/labs/toyshop/internal/users/auth"
 )
 
 var usersService *UsersService

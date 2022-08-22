@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	database "github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/db"
-	"github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/toys"
+	database "github.com/jwkidd3/golang-microservices/demos/toyshop/internal/db"
+	"github.com/jwkidd3/golang-microservices/demos/toyshop/internal/toys"
 )
 
 type ToysDB struct {

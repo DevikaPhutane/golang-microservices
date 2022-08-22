@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	inventoryService "github.com/KernelGamut32/golang-microservices/demos/inventory/internal/inventory/service"
+	inventoryService "github.com/jwkidd3/golang-microservices/demos/inventory/internal/inventory/service"
 	"github.com/gorilla/mux"
 )
 

@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	toysService "github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/toys/service"
-	"github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/toys/auth"
+	toysService "github.com/jwkidd3/golang-microservices/demos/toyshop/internal/toys/service"
+	"github.com/jwkidd3/golang-microservices/demos/toyshop/internal/toys/auth"
 	"github.com/gorilla/mux"
 )
 

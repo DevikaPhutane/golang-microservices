@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/KernelGamut32/golang-microservices/demos/inventory/internal/inventory"
+	"github.com/jwkidd3/golang-microservices/demos/inventory/internal/inventory"
 	"github.com/gorilla/mux"
 	"github.com/spf13/viper"
 )

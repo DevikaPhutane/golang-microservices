@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/routes"
+	"github.com/jwkidd3/golang-microservices/demos/toyshop/internal/routes"
 )
 
 func main() {

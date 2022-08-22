@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	database "github.com/KernelGamut32/golang-microservices/demos/inventory/internal/db"
-	"github.com/KernelGamut32/golang-microservices/demos/inventory/internal/inventory"
+	database "github.com/jwkidd3/golang-microservices/demos/inventory/internal/db"
+	"github.com/jwkidd3/golang-microservices/demos/inventory/internal/inventory"
 )
 
 type InventoryDB struct {

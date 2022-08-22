@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	usersService "github.com/KernelGamut32/golang-microservices/labs/toyshop/internal/users/service"
+	usersService "github.com/jwkidd3/golang-microservices/labs/toyshop/internal/users/service"
 	"github.com/gorilla/mux"
 )
 

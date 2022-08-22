@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"github.com/KernelGamut32/golang-microservices/demos/users/internal/users/auth"
-	usersService "github.com/KernelGamut32/golang-microservices/demos/users/internal/users/service"
+	"github.com/jwkidd3/golang-microservices/demos/users/internal/users/auth"
+	usersService "github.com/jwkidd3/golang-microservices/demos/users/internal/users/service"
 	"github.com/gorilla/mux"
 )
 

@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/KernelGamut32/golang-microservices/demos/toyshop/internal/users"
+	"github.com/jwkidd3/golang-microservices/demos/toyshop/internal/users"
 	"github.com/spf13/viper"
 )
 

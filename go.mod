@@ -1,4 +1,4 @@
-module github.com/KernelGamut32/golang-microservices
+module github.com/jwkidd3/golang-microservices
 
 go 1.17
 
